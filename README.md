@@ -1,5 +1,5 @@
 # DataDrift
-A simple program that allows for one to receive a password so they can find out when their package will arrive.
+A simple program that allows for one to receive a password so they can find out when their package will arrive using an location API.
 
 Purpose/Problem Statement - What does your program do? What problem/need is it addressing?
 Target Audience - Who is this for? (ex: students, gamers, young adults, etc.)
