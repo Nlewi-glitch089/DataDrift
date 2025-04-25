@@ -9,7 +9,8 @@ The target audience includes online shoppers—particularly students, young adul
 
 # Solution + Limitations
 The program generates a temporary password that allows users to securely access package information based on their location. It uses an API to gather real-time data and makes tracking more accessible.
-# Limitations: It doesn’t show exact package locations or offer real-time updates. Also, users can’t input their specific tracking numbers—it gives general delivery info based on location, not specific carriers.
+# Limitations: 
+It doesn’t show exact package locations or offer real-time updates. Also, users can’t input their specific tracking numbers—it gives general delivery info based on location, not specific carriers.
 
 # Key Features / Key Components
 Password Generator: Provides a one-time password for user access.
