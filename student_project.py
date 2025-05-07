@@ -150,4 +150,4 @@ serial_number = random.choice(serial_numbers)  # Assign a serial number to the p
 print("\nSerial Number: " + serial_number)
 print("\nYour package contains: " + ", ".join(package_items))
 print("\nTotal items in package: " + str(num_items))  # Print the number of items in the package
-print("\nExpected delivery: " + delivery_date)  # Print the expected delivery date
+print("\nExpected delivery: " + delivery_date + " days.")  # Print the expected delivery date
