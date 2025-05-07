@@ -2,6 +2,7 @@
 Data Structures
 Student Project
 Project Title: DataDrift Nationwide
+
 TradeOffs: When adding the API to the original project, I had to refactor the code to integrate external data, which changed how the ZIP code input worked. 
 This meant handling errors for invalid ZIP codes and ensuring the new functionality didn't disrupt the existing package features. 
 Additionally, I introduced temporary passwords and hints for session security, which added complexity but was necessary for protecting user data. 
