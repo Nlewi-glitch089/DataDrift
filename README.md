@@ -1,7 +1,4 @@
-from pathlib import Path
-
-# Define the content of the README file
-readme_content = """# 📦 DataDrift
+## 📦 DataDrift
 
 **Description:**  
 DataDrift is a location-based delivery tracker that generates a secure password for users to access estimated package arrival times using real-time API data.
