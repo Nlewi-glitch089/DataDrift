@@ -73,6 +73,18 @@ Finally, I adjusted the item generation and delivery time logic to accommodate r
 
 ---
 
+## ⚙️ Optimization for Clarity, Efficiency, and Usability
+
+- **Input Awareness:** The program checks the API response to make sure the ZIP code is valid before trying to show location info. This prevents user confusion and avoids errors.
+
+- **Reusable Structure:** The code is written in a way that could easily be turned into a user-defined function with parameters, making it easier to reuse and scale.
+
+- **Error Prevention Strategy:** While a basic error check is in place, there are plans to add a try-except block in the future to handle internet issues or API problems without crashing the program.
+
+- **Planned Enhancements:** Future updates may include input validation (e.g. checking if ZIP codes are exactly 5 digits) and clearer output formatting to improve the user experience.
+
+---
+
 ## 🌐 ZIP Code Location Finder
 
 ```python
