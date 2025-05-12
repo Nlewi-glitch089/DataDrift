@@ -73,10 +73,10 @@ Finally, I adjusted the item generation and delivery time logic to accommodate r
 
 ---
 
-## 💻 Project Code (Snippets)
+## 🌐 ZIP Code Location Finder
 
 ```python
-# 🌐 Fetching place name from ZIP code
+# Fetching place name from ZIP code
 BASE_URL = "http://api.zippopotam.us/US/"
 zip_code = input("Enter a ZIP code: ")
 response = requests.get(BASE_URL + zip_code)
